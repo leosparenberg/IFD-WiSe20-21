@@ -9,8 +9,10 @@ body{
 	background-size: cover;
 	color:white;
 	font-family: Roboto;
+	padding: 0 100px;
 }
 h1{
+	margin-top: 100px;
 	text-align: center;
 	font-family: Star Jedi;
 }
@@ -19,4 +21,8 @@ h2{
 }
 a{
 	color: white;
+}
+a:hover{
+	color:#FFE81F;
+	text-decoration: none;
 }

@@ -1,20 +1,28 @@
 @charset "utf-8";
 @font-face { font-family: 'Londrina';
              src: url('font/LondrinaShadow-Regular.ttf') format('truetype'); }
+@font-face { font-family: 'Roboto';
+             src: url('font/Roboto-Regular.ttf') format('truetype'); }
 /* CSS Document */
 html {
   min-height: 100%;
 }
 body{
 	overflow-x: hidden;
+	background-image: url("img/bgswot.jpeg");
+	background-size: cover;
+	font-family: Roboto;
 }
-
+.col{
+	margin: 45px 0;
+}
 .box {
-  position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .box.ol {
-	margin: auto 0 0 auto;
-  
+	margin: auto 0 0 auto; 
 }
 .card-container {
   position: relative;
@@ -31,6 +39,10 @@ img {
   margin-top: 40px;
 }
 
+.nav{
+	background-color: rgba(0,0,0,0.80);
+	border-bottom: 2px solid white;
+}
 .card{
   width: 100%;
   height: 100%;
@@ -51,6 +63,7 @@ img {
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
+  border: solid 5px #D1D1D1;
 }
 
 .back {
@@ -65,21 +78,28 @@ img {
 
 
 h1 {
-  font-size: 2em;
-  padding-top: 15px;
-  color: black;
+  font-size: 25px;
+  color: white;
+  text-align: center;
 }
 h2{
 	text-align: center;
 	padding-top: 15px;
 	font-size: 2.6rem;
-	color: black;
+	color: #D1D1D1;
 	font-family: Londrina;
 	font-weight:bold;
+}
+h3{
+	margin: 30px 0;
 }
 
 p {
   font-size: 1.2em;
+}
+.nav p{
+	font-size: 25px;
+	text-align: center;
 }
 
 .flex { 
@@ -89,14 +109,32 @@ p {
 }
 
 .green{
-	background-color: #0CFA40;
+	background-color: #089927;
 }
 .yellow{
-	background-color: #FAC007;
+	background-color: #997400;
 }
 .blue{
-	background-color: #0025FA;
+	background-color: #13279C;
 }
 .red{
-	background-color: #FA1934;
+	background-color: #991726;
 }
+a{
+	color:white;
+}
+a:hover{
+	color:#d1d1d1;
+	text-decoration: none;
+}
+.goback {
+	border-left: 2px solid white;
+	padding-top: 10px;
+}
+.goback:hover{
+	background-color: #757575;
+}
+.headline{
+	padding-top: 10px;
+}
+
