@@ -41,6 +41,9 @@ Interaktionen sind leicht zu bedienen und benötigen nahezu keine Einarbeitungsz
 * Beschränkung auf vorgegebene Fonts
 * keine Videoeinbindung möglich
 
+## Einsteigervideo
+https://player.vimeo.com/video/173753393
 
-<iframe src="https://player.vimeo.com/video/173753393" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/173753393">Getting started with HotGloo</a> from <a href="https://vimeo.com/hotgloo">HotGloo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<figure class="video_container">
+  <iframe src="https://player.vimeo.com/video/173753393" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
