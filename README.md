@@ -8,3 +8,7 @@
 
  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/01/Wallet-Project.pdf" target="_blank">##Task 1 - The Wallet Project</a>
  <br>Stand: 17.10.2020
+ 
+ 
+  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/02/Prototyping-Tool.md" target="_blank">##Task 2 - Prototyping</a>
+ <br>Stand: 20.10.2020
