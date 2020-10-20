@@ -44,4 +44,10 @@ Interaktionen sind leicht zu bedienen und benötigen nahezu keine Einarbeitungsz
 ## Einsteigervideo
 https://player.vimeo.com/video/173753393
 
-![Canvas](/img/Canvas.PNG "Canvas")
+## Screenshots
+
+![Canvas](https://raw.githubusercontent.com/leosparenberg/IFD-WiSe20-21/master/02/img/Canvas.PNG "Canvas") *HotGloo GUI*
+<br>
+<br>
+<br>
+![Canvas](https://raw.githubusercontent.com/leosparenberg/IFD-WiSe20-21/master/02/img/Preview.PNG "Canvas") *HotGloo Preview*
