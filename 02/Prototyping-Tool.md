@@ -44,6 +44,4 @@ Interaktionen sind leicht zu bedienen und benötigen nahezu keine Einarbeitungsz
 ## Einsteigervideo
 https://player.vimeo.com/video/173753393
 
-<figure class="video_container">
-  <iframe src="https://player.vimeo.com/video/173753393" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+![Canvas](/img/Canvas.PNG "Canvas")
