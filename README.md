@@ -13,3 +13,7 @@
   <a href="https://leosparenberg.github.io/IFD-WiSe20-21/02/Prototyping-Tool.md" target="_blank">##Task 2.1 - Prototyping Tool</a>
   <br><a href="https://leosparenberg.github.io/IFD-WiSe20-21/02/2.2.pdf" target="_blank">##Task 2.2 - Intranet</a>
  <br>Stand: 20.10.2020
+ 
+ 
+ <a href="https://www.figma.com/proto/2Xqr1eRyECLeaXxHr0zlIm/IFD-Intranet?node-id=1%3A2&scaling=scale-down" target="_blank">##Task 3 - Intranet High Fidelty Prototype (made with Figma)</a>
+ <br>Stand: 29.10.2020
