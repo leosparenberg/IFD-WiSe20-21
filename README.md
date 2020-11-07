@@ -19,7 +19,7 @@
  <br>Stand: 29.10.2020
 
 ##Task 04 - Prototyping eines VUI<br>
-<a href="https://leosparenberg.github.io/IFD-WiSe20-21/04/Aufgabe 4.pdf" target="_blank">Flowchart
+<a href="https://leosparenberg.github.io/IFD-WiSe20-21/04/Aufgabe 4.pdf" target="_blank">Konzept
 </a><br>
  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/04/Flowchart.pdf" target="_blank">Flowchart
 </a>
