@@ -18,7 +18,10 @@
  <a href="https://www.figma.com/proto/2Xqr1eRyECLeaXxHr0zlIm/IFD-Intranet?node-id=1%3A2&scaling=scale-down" target="_blank">##Task 3 - Intranet High Fidelty Prototype (made with Figma)</a>
  <br>Stand: 29.10.2020
 
-##Task 04 - Prototyping eines VUI
+##Task 04 - Prototyping eines VUI<br>
+<a href="https://leosparenberg.github.io/IFD-WiSe20-21/04/Aufgabe 4.pdf" target="_blank">Flowchart
+</a><br>
  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/04/Flowchart.pdf" target="_blank">Flowchart
 </a>
  <br>Stand: 07.11.2020
+ 
