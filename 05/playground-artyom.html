@@ -46,46 +46,7 @@ artyom.initialize({
     speed:0.9, // Talk a little bit slow
     mode:"normal" // This parameter is not required as it will be normal by default
 });
-		/*
-	artyom.addCommands([
-		{
-		indexes:["Hello"],
-		action:function(i){
-		if(i == 0){
-		artyom.say("Hello ! How are you?")	
-		}
-	}
-		},
-		{
-			indexes:["goodbye"],
-			action:function(stopArtyom){
-				alert("now all is over.");
-			}
-		}
-	]);	
 		
-	artyom.redirectRecognizedTextOutput(function(text,isFinal){
-		var span = document.getElementById("output")
-		
-		if(isFinal){
-			span.innerHTML = "";}else{
-				span.innerHTML = text;
-			}
-		}
-	)
-		
-	function startArtyom(){
-	artyom.initialize({
-	lang:"en-GB",
-	continious:true,
-	debug:true,
-	listen: true
-	});
-	}
-	
-	function stopArtyom(){
-		artyom.fatality();
-	}
 	</script>
 </body>
 </html>
