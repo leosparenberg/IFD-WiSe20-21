@@ -70,7 +70,7 @@ function init() {
     }
     startContinuousArtyom();
     const answer =
-      'Hey Benni, ich hoffe du hast gut schlafen. Wie geht es dir heute';
+      'Hey Student, was kann ich für dich tun?';
     artyom.say(answer);
     createNewMessageBox(answer, 'userOutput');
     artyom.redirectRecognizedTextOutput(function (recognized, isFinal) {
