@@ -7,7 +7,7 @@ function init() {
   const commands = [
     {
       indexes: [
-        'Jo Fuwa, was steht heute an?',
+        'was steht heute an?',
         'Yo Fuwa, was steht heute an?',
       ],
       action: function () {
