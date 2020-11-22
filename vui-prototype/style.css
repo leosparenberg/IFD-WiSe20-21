@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+  font-weight: bold;
+  color: white;
+  background-color: #161616;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h2 {
+  margin-bottom: 8rem;
+  font-size: 10rem;
+}
+
+.startScreen {
+  margin: auto;
+  text-align: center;
+}
+
+.conversation {
+  margin-top: 20vh;
+  margin-bottom: 5rem;
+}
+
+.startScreen,
+.conversation {
+  display: none;
+  width: 70vw;
+  max-width: 1440px;
+}
+
+.active {
+  display: block;
+}
+
+.active.conversation {
+  display: flex;
+}
+.conversation__intro {
+  width: 50%;
+}
+
+.conversation__intro button {
+  text-align: center;
+}
+
+.conversation__messages {
+  width: 50%;
+}
+
+button {
+  background-image: linear-gradient(
+    to right,
+    #aa076b 0%,
+    #61045f 51%,
+    #aa076b 100%
+  );
+}
+button {
+  margin: 1rem;
+  padding: 1.5rem 4.5rem;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border: none;
+  border-radius: 2rem;
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+button:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+button:focus {
+  outline: none;
+}
+
+.userInput {
+  margin-left: auto;
+  background-image: linear-gradient(
+    to right,
+    #1d976c 0%,
+    #93f9b9 51%,
+    #1d976c 100%
+  );
+}
+
+.userOutput {
+  background-image: linear-gradient(
+    to right,
+    #aa076b 0%,
+    #61045f 51%,
+    #aa076b 100%
+  );
+}
+.userInput,
+.userOutput {
+  display: block;
+  width: 65%;
+  margin-top: 3rem;
+  padding: 2.5rem 4rem;
+  border-radius: 2rem;
+  min-height: 10rem;
+  transition: 0.5s;
+  background-size: 200% auto;
+}
+
+.userOutput:hover,
+.userInput:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
