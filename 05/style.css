@@ -78,7 +78,7 @@ button {
   padding: 4.5rem 4.5rem;
   transition: 0.5s;
   background-size: 200% auto;
-  
+  cursor: pointer;
   color: white;
   border: 5px solid white;
   border-radius: 400px;
@@ -92,8 +92,7 @@ button.endButton{
 	border: 3px solid white;
 }
 button:hover {
-  background-position: right center; /* change the direction of the change here */
-  color: #fff;
+  transform: scale(1.1);
   text-decoration: none;
 }
 
@@ -132,15 +131,9 @@ button:focus {
   background-size: 200% auto;
 }
 .userInput{
-  display: block;
-  width: 65%;
-  margin-top: 3rem;
   padding: 2.5rem 4rem;
   border: 3px solid black;
   border-radius: 3rem 3rem 0rem 3rem;
-  min-height: 10rem;
-  transition: 0.5s;
-  background-size: 200% auto;
 }
 .userOutput:hover,
 .userInput:hover {
