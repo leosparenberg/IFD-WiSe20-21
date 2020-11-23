@@ -7,10 +7,11 @@ function init() {
   const commands = [
     {
       indexes: [
-        'Was steht heute an?',
+        'Was steht heute alles an?',
+        'kannst du mich auf den aktuellen Stand bringen',
       ],
       action: function () {
-        const answer = 'Du hast heute keine Termine';
+        const answer = 'sehr gerne, mit was soll ich beginnen';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
