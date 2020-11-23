@@ -7,7 +7,7 @@ function init() {
   const commands = [
     {
       indexes: [
-        'Was steht heute alles an?',
+        'Was steht heute an?',
       ],
       action: function () {
         const answer = 'Du hast heute keine Termine';
