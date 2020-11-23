@@ -7,37 +7,46 @@ function init() {
   const commands = [
     {
       indexes: [
-        'was steht heute an?',
-        'Yo Fuwa, was steht heute an?',
+        'kannst du mir sagen was heute alles ansteht',
+        'kannst du mich auf den aktuellen Stand bringen',
       ],
       action: function () {
-        const answer = 'Du hast heute keine Termine.';
+        const answer = 'sehr gerne, mit was soll ich beginnen';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
     },
     {
-      indexes: ['Gibt es sonst etwas neues?'],
+      indexes: ['ich bin noch etwas müde'],
       action: function () {
-        const answer = 'Deine Bücherleihe läuft morgen ab.';
+        const answer = 'soll ich deine guten Morgen Playlist abspielen';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
     },
     {
-      indexes: ['Wie lange hat die Bibliothek heute geöffnet?'],
-      action: function () {
-        const answer =
-          'Die Bibliothek hat heute bis 19 Uhr geöffnet';
-        artyom.say(answer);
-        createNewMessageBox(answer, 'userOutput');
-      },
-    },
-    {
-      indexes: ['Danke Fuwa'],
+      indexes: ['welche Abgaben habe ich noch offen'],
       action: function () {
         const answer =
-          'Keine Ursache';
+          'Bis Mittwoch, den 11.11.2020, musst du noch die Aufgabe 4 in Interface Design erledigen. Soll ich dir die Aufgabenstellung vorlesen';
+        artyom.say(answer);
+        createNewMessageBox(answer, 'userOutput');
+      },
+    },
+    {
+      indexes: ['welche Vorlesungen habe ich heute'],
+      action: function () {
+        const answer =
+          'Du hast heute zwei Blöcke Vorlesung. Zuerst hast du von 09:45 - 11:15 Uhr Interface Design. Im Anschluss hast du noch von 11:15 - 13:15 Uhr die Veranstaltung Streaming Anwendungen';
+        artyom.say(answer);
+        createNewMessageBox(answer, 'userOutput');
+      },
+    },
+    {
+      indexes: ['habe ich neue Nachrichten bekommen'],
+      action: function () {
+        const answer =
+          'Du hast eine neue E-Mail erhalten. Soll ich dir den Absender und den Betreff vorlesen';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
@@ -70,7 +79,7 @@ function init() {
     }
     startContinuousArtyom();
     const answer =
-      'Hey Student, was kann ich für dich tun?';
+      'Hey Benni, ich hoffe du hast gut schlafen. Wie geht es dir heute';
     artyom.say(answer);
     createNewMessageBox(answer, 'userOutput');
     artyom.redirectRecognizedTextOutput(function (recognized, isFinal) {
