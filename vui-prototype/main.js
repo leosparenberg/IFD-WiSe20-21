@@ -17,7 +17,7 @@ function init() {
       },
     },
     {
-      indexes: ['Gibt es sonst etwas neues?'],
+      indexes: ['Gibt es sonst etwas neues'],
       action: function () {
         const answer = 'soll ich deine guten Morgen Playlist abspielen';
         artyom.say(answer);
