@@ -7,46 +7,46 @@ function init() {
   const commands = [
     {
       indexes: [
-        'Was steht heute alles an?',
-        'kannst du mich auf den aktuellen Stand bringen',
+        'Was steht heute an',
       ],
       action: function () {
-        const answer = 'sehr gerne, mit was soll ich beginnen';
+        const answer = 'Du hast heute keine Termine.';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
     },
     {
-      indexes: ['Gibt es sonst etwas neues'],
+      indexes: ['Gibt es sonst etwas neues',
+			   'Gibt es Neuigkeiten',],
       action: function () {
-        const answer = 'soll ich deine guten Morgen Playlist abspielen';
+        const answer = 'deine Buchleihe läuft morgen ab';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
     },
     {
-      indexes: ['welche Abgaben habe ich noch offen'],
-      action: function () {
-        const answer =
-          'Bis Mittwoch, den 11.11.2020, musst du noch die Aufgabe 4 in Interface Design erledigen. Soll ich dir die Aufgabenstellung vorlesen';
-        artyom.say(answer);
-        createNewMessageBox(answer, 'userOutput');
-      },
-    },
-    {
-      indexes: ['welche Vorlesungen habe ich heute'],
+      indexes: ['wie lange hat die Bibliothek heute geöffnet'],
       action: function () {
         const answer =
-          'Du hast heute zwei Blöcke Vorlesung. Zuerst hast du von 09:45 - 11:15 Uhr Interface Design. Im Anschluss hast du noch von 11:15 - 13:15 Uhr die Veranstaltung Streaming Anwendungen';
+          'Die Bibliothek hat heute bis 18 Uhr geöffnet.';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
     },
     {
-      indexes: ['habe ich neue Nachrichten bekommen'],
+      indexes: ['Reserviere mir ein Essen auf 12 Uhr'],
       action: function () {
         const answer =
-          'Du hast eine neue E-Mail erhalten. Soll ich dir den Absender und den Betreff vorlesen';
+          'Ich habe dir ein Essen auf 12 Uhr reserviert.';
+        artyom.say(answer);
+        createNewMessageBox(answer, 'userOutput');
+      },
+    },
+    {
+      indexes: ['Was gibt es heute in der Mensa'],
+      action: function () {
+        const answer =
+          'Heute gibt es Schnitzel mit Pommes.';
         artyom.say(answer);
         createNewMessageBox(answer, 'userOutput');
       },
