@@ -79,7 +79,7 @@ function init() {
     }
     startContinuousArtyom();
     const answer =
-      'Hallo Leo, was kann ich für dich tun?';
+      'Hey Benni, ich hoffe du hast gut schlafen. Wie geht es dir heute';
     artyom.say(answer);
     createNewMessageBox(answer, 'userOutput');
     artyom.redirectRecognizedTextOutput(function (recognized, isFinal) {
