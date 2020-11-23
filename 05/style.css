@@ -114,9 +114,9 @@ button:focus {
 }
 .userInput{
   padding: 2.5rem 4rem;
-  border: 3px solid black;
+  border: 3px solid white;
   border-radius: 3rem 3rem 0rem 3rem;
-  background-color: #03b670;
-  color: black;
+  background-color: #009fe3;
+  color: white;
   float:right;
 }
