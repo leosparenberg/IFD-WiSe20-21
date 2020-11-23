@@ -98,7 +98,7 @@ function init() {
     document
       .querySelector('.conversation')
       .classList.remove('active', 'animate__animated', 'animate__fadeIn');
-    artyom.say('Bis bald Benni');
+    artyom.say('Bis zum nächsten Mal');
     artyom.dontObey();
     document.querySelector('.conversation__messages').innerHTML = '';
     console.log('Closed!');
