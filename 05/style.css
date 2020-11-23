@@ -107,6 +107,7 @@ button:focus {
   min-height: 10rem;
   transition: 0.5s;
   background-color:#00844D;
+  float: left;
 }
 .userInput{
   padding: 2.5rem 4rem;
