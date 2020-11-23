@@ -65,19 +65,12 @@ h2 {
   width: 50%;
 }
 
-button {
-  background-image: linear-gradient(
-    to right,
-    #089C88 0%,
-    #00844D 51%,
-    #089C34 100%
-  );
-}
+
 button {
   margin: 1rem;
   padding: 4.5rem 4.5rem;
   transition: 0.5s;
-  background-size: 200% auto;
+  background: #00844D;
   cursor: pointer;
   color: white;
   border: 5px solid white;
@@ -100,24 +93,6 @@ button:focus {
   outline: none;
 }
 
-.userInput {
-  margin-left: auto;
-  background-image: linear-gradient(
-    to right,
-    #1d976c 0%,
-    #93f9b9 51%,
-    #1d976c 100%
-  );
-}
-
-.userOutput {
-  background-image: linear-gradient(
-    to right,
-    #089C88 0%,
-    #00844D 51%,
-    #089C34 100%
-  );
-}
 .userInput,
 .userOutput {
   display: block;
@@ -128,16 +103,12 @@ button:focus {
   border-radius: 3rem 3rem 3rem 0;
   min-height: 10rem;
   transition: 0.5s;
-  background-size: 200% auto;
+  background-color:#00844D;
 }
 .userInput{
   padding: 2.5rem 4rem;
   border: 3px solid black;
   border-radius: 3rem 3rem 0rem 3rem;
-}
-.userOutput:hover,
-.userInput:hover {
-  background-position: right center; /* change the direction of the change here */
-  color: #fff;
-  text-decoration: none;
+  background-color: white;
+  color: black;
 }
