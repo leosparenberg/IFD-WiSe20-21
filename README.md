@@ -1,31 +1,31 @@
 # IFD-WiSe2021
  Repository Interface Design, Leo Sparenberg, WiSe 2020/2021
  
- 
- <a href="https://leosparenberg.github.io/IFD-WiSe20-21/00/swot.html" target="_blank">##Task 0 - SWOT Analyse</a>
+Task 00 - SWOT Analyse
+ <a href="https://leosparenberg.github.io/IFD-WiSe20-21/00/swot.html" target="_blank">zur SWOT-Website</a>
  <br>Stand: 12.10.2020
 
-
- <a href="https://leosparenberg.github.io/IFD-WiSe20-21/01/Wallet-Project.pdf" target="_blank">##Task 1 - The Wallet Project</a>
+Task 01 - The Wallet Project
+ <a href="https://leosparenberg.github.io/IFD-WiSe20-21/01/Wallet-Project.pdf" target="_blank">zur Doku</a>
  <br>Stand: 17.10.2020
  
- 
-  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/02/Prototyping-Tool.html" target="_blank">##Task 2.1 - Prototyping Tool</a>
-  <br><a href="https://leosparenberg.github.io/IFD-WiSe20-21/02/2.2.pdf" target="_blank">##Task 2.2 - Intranet</a>
+Task 02 - Prototyping
+  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/02/Prototyping-Tool.html" target="_blank">2.1 - Prototyping Tool</a>
+  <br><a href="https://leosparenberg.github.io/IFD-WiSe20-21/02/2.2.pdf" target="_blank">2.2 - Intranet</a>
  <br>Stand: 20.10.2020
  
- 
- <a href="https://www.figma.com/proto/2Xqr1eRyECLeaXxHr0zlIm/IFD-Intranet?node-id=1%3A2&scaling=scale-down" target="_blank">##Task 3 - Intranet High Fidelty Prototype (made with Figma)</a>
+Task 03 - Intranet High Fidelty Prototype 
+ <a href="https://www.figma.com/proto/2Xqr1eRyECLeaXxHr0zlIm/IFD-Intranet?node-id=1%3A2&scaling=scale-down" target="_blank">Zum Prototypen (made with Figma)</a>
  <br>Stand: 29.10.2020
 
-##Task 04 - Prototyping eines VUI<br>
+Task 04 - Prototyping eines VUI<br>
 <a href="https://leosparenberg.github.io/IFD-WiSe20-21/04/Aufgabe 4.pdf" target="_blank">Konzept
 </a><br>
  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/04/Flowchart.pdf" target="_blank">Flowchart
 </a>
  <br>Stand: 07.11.2020
  
- ##Task 05 - Prototyping eines VUI<br>
+Task 05 - Prototyping eines VUI<br>
 <a href="https://leosparenberg.github.io/IFD-WiSe20-21/05/index.html" target="_blank">Zum Browser VUI (made with Artyom.js)
 </a><br>
  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/05/screencast.html" target="_blank">Zum Screencast
