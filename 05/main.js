@@ -117,3 +117,9 @@ function createNewMessageBox(text, typeOfInput) {
   document.querySelector('.conversation__messages').appendChild(creatElem);
   document.querySelector('.conversation__messages').lastElementChild.scrollIntoView();
 }
+
+
+
+
+
+
