@@ -7,7 +7,7 @@
 	<li>Probleme</li>
 </ul>
 <h3>Design</h3>
-Beim Design habe ich mich für einen Farbverlauf der primär und Sekundärfarbe der HFU entschieden. Vorne ist die Brille mit dem gesamten Logo der HFU plus VR Logo versehen. Dazu noch der Claim "#Dive into another world". Auf den Seiten befindet sich jeweils die Bildmarke der HFU und ebenfalls ein VR Logo. 
+Beim Design habe ich mich für einen Farbverlauf der primär und Sekundärfarbe der HFU entschieden. Vorne ist die Brille mit Bild- und Wortmarke der HFU plus VR Logo versehen. Dazu kommt noch der Claim "#Dive into another world". Auf den Seiten befindet sich jeweils die Bildmarke der HFU und ebenfalls ein VR Logo. 
 <img src="img/hfu-vr_1.png" alt="Design" width="600px">
 <img src="img/hfu-vr_2.png" alt="Design" width="600px">
 <img src="img/hfu-vr_3.png" alt="Design" width="600px">
@@ -26,10 +26,10 @@ Zudem habe ich mir ein alternatives Stativ zusammen gebaut um das Basteln zu fil
 <h3>Probleme</h3>
 Folgende Probleme sind im Laufe dieser Aufgabe bei mir aufgetreten:
 <ol>
-<li>1. Da ich bei mir kein Teppichmesser oder ähnliches in der Wohnung habe, war es schwer die die Aussparungen innerhalb der Bastelvorlage ordentlich auszuschneiden. </li>
-	<li>2. Da der Kleber alleine nicht gereicht hat, musste ich des öfteren mit Klebestreifen nachhelfen</li>
-	<li>3. Als Brillenträger kann ich die Brille in dieser Form nicht nutzen, da ich mit meiner Sehhilfe nicht durch die VR BRille schauen kann.</li>
-	<li>4. Mein Smartphone ist zu groß für diese Vorlage, weshalb ich die Lasche die normalerweise das Handy auf einer Seite stabilisieren soll nach außen klappen muss, so das mein Handy auf beiden Seiten rausschaut.</li>
+<li> Da ich bei mir kein Teppichmesser oder ähnliches in der Wohnung habe, war es schwer die die Aussparungen innerhalb der Bastelvorlage ordentlich auszuschneiden. </li>
+	<li>Da der Kleber alleine nicht gereicht hat, musste ich des öfteren mit Klebestreifen nachhelfen</li>
+	<li>Als Brillenträger kann ich die Brille in dieser Form nicht nutzen, da ich mit meiner Sehhilfe nicht durch die VR BRille schauen kann.</li>
+	<li>Mein Smartphone ist zu groß für diese Vorlage, weshalb ich die Lasche die normalerweise das Handy auf einer Seite stabilisieren soll nach außen klappen muss, so das mein Handy auf beiden Seiten rausschaut.</li>
 	</ol>
 
 
