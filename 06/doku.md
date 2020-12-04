@@ -4,7 +4,6 @@ Inhalt
 <img src="img/hfu-vr.png" alt="Design" width="600px">
 <img src="img/cardboard_start.jpg" alt="Startsituation" width="600px">
 <video width="600px" controls>
-  <source src="img/Cardboardbasteln_komprimiert" type="video/mp4">
+  <source src="img/Cardboardbasteln_komprimiert.mp4" type="video/mp4">
 </video>
-
 <img src="img/Cardboard_fertig.png" alt="fertige Cardboardbrille" width="600px">
