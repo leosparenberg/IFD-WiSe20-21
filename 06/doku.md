@@ -29,7 +29,7 @@ Folgende Probleme sind im Laufe dieser Aufgabe bei mir aufgetreten:
 <li> Da ich bei mir kein Teppichmesser oder ähnliches in der Wohnung habe, war es schwer die die Aussparungen innerhalb der Bastelvorlage ordentlich auszuschneiden. </li>
 	<li>Da der Kleber alleine nicht gereicht hat, musste ich des öfteren mit Klebestreifen nachhelfen</li>
 	<li>Als Brillenträger kann ich die Brille in dieser Form nicht nutzen, da ich mit meiner Sehhilfe nicht durch die VR BRille schauen kann.</li>
-	<li>Mein Smartphone ist zu groß für diese Vorlage, weshalb ich die Lasche die normalerweise das Handy auf einer Seite stabilisieren soll nach außen klappen muss, so das mein Handy auf beiden Seiten rausschaut.</li>
+	<li>Mein Smartphone ist zu groß für diese Vorlage, weshalb ich die Lasche die normalerweise das Handy auf einer Seite stabilisieren soll nach außen klappen muss, so dass mein Handy auf beiden Seiten rausschaut.</li>
 	</ol>
 
 
