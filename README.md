@@ -32,7 +32,14 @@ Task 05 - Prototyping eines VUI<br>
 </a>
  <br>Stand: 24.11.2020
  
- Task 06 - VR Cardboard Brille<br>
+Task 06 - VR Cardboard Brille<br>
  <a href="https://leosparenberg.github.io/IFD-WiSe20-21/06/doku.html" target="_blank">Zur Doku
 </a>
  <br>Stand: 04.12.2020
+ 
+ Task 07 - Virtual Immersive Panel Discussion - Konzeption<br>
+<a href="#" target="_blank">Zum Storyboard
+</a><br>
+ <a href="https://youtu.be/jb_kuOD7KzU" target="_blank">Zum Video
+</a>
+ <br>Stand: 24.11.2020
