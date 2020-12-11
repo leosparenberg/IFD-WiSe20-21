@@ -42,4 +42,4 @@ Task 06 - VR Cardboard Brille<br>
 </a><br>
  <a href="https://youtu.be/jb_kuOD7KzU" target="_blank">Zum Video
 </a>
- <br>Stand: 24.11.2020
+ <br>Stand: 11.12.2020
