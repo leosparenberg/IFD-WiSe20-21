@@ -38,7 +38,7 @@ Task 06 - VR Cardboard Brille<br>
  <br>Stand: 04.12.2020
  
  Task 07 - Virtual Immersive Panel Discussion - Konzeption<br>
-<a href="#" target="_blank">Zum Storyboard
+<a href="https://leosparenberg.github.io/IFD-WiSe20-21/07/Storyboard.pdf" target="_blank">Zum Storyboard
 </a><br>
  <a href="https://youtu.be/jb_kuOD7KzU" target="_blank">Zum Video
 </a>
