@@ -7,5 +7,5 @@ Link zum Ausgangsprototypen:<br>
  <br>
  
 Link zum verbesserten Prototypen:<br>
- <a href="https://www.figma.com/proto/VKF6zRzXyOXoupYikXpNER/IFD-Intranet-Copy?node-id=56%3A250&scaling=scale-down" target="_blank">Ausgangsprototyp</a>
+ <a href="https://www.figma.com/proto/VKF6zRzXyOXoupYikXpNER/IFD-Intranet-Copy?node-id=56%3A250&scaling=scale-down" target="_blank">verbessereter Prototyp</a>
 
